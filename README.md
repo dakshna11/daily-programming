@@ -1,1 +1,1 @@
-# dynamic-prg
+Logical programming practice
